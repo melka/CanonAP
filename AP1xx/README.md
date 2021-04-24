@@ -2,7 +2,7 @@
 
 [Back to index](../README.md)
 
-- [AP100](AP100/README.md) : SKEW + 1 x SKCL Green
+- [AP 100](AP100/README.md) : SKEW + 1 x SKCL Green
 - AP 105
 - AP 110
 - AP 110-II
