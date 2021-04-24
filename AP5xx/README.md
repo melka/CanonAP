@@ -8,6 +8,6 @@
 - AP 510
 - [AP 550](AP550/README.md) : SKFF
 - AP 550 II
-- [AP 560](AP560/README.md) : Alps SKCP, SKCP Double Action, SKCL Green, SKCL Double Action
+- [AP 560](AP560/README.md) : SKCP, SKCP Double Action, SKCL Green, SKCL Double Action
 - AP 5015
 - AP 5415
